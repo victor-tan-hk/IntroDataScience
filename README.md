@@ -1,2 +1,2 @@
 # Introduction and Overview of Data Science
-# 15 Sept - 17 Sept
+# 20 - 21 March 2024
